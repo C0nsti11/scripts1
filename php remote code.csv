@@ -1,0 +1,953 @@
+title,url
+123 Flash Chat 5.0 - Remote Code Injection,php/webapps/27121.txt
+4Images 1.7.1 - Local File Inclusion / Remote Code Execution,php/webapps/1533.php
+A2billing 2.x - Backup File Download / Remote Code Execution,php/webapps/42616.txt
+Abantecart v1.3.2 - Authenticated Remote Code Execution,php/webapps/51058.txt
+Active Collab 'chat module' < 2.3.8 - Remote PHP Code Injection (Metasploit),php/remote/18898.rb
+Admidio v4.2.10 - Remote Code Execution (RCE),php/webapps/51590.txt
+Advanced Electron Forum 1.0.6 - Remote Code Execution,php/webapps/6499.txt
+Advanced HRM 1.6 - Remote Code Execution,php/webapps/45604.txt
+Advanced Poll 2.0.5-dev - Remote Code Execution,php/webapps/3300.pl
+Agent Tesla Botnet - Arbitrary Code Execution,php/remote/47243.py
+Agent Tesla Botnet - Arbitrary Code Execution (Metasploit),php/remote/47256.rb
+Agilebio Lab Collector Electronic Lab Notebook  v4.234 - Remote Code Execution (RCE),php/webapps/51307.py
+Ahhp Portal - 'page.php' Multiple Remote File Inclusions,php/webapps/29903.txt
+aidiCMS 3.55 - 'ajax_create_folder.php' Remote Code Execution,php/webapps/18085.php
+AimStats 3.2 - 'process.php?update' Remote Code Execution,php/webapps/3762.html
+Ajax File and Image Manager 1.0 Final - Remote Code Execution,php/webapps/18075.txt
+ALCASAR 2.8.1 - Remote Code Execution,php/webapps/34666.py
+Alcatel-Lucent Omnivista 8770 - Remote Code Execution,php/webapps/47761.py
+Alienvault Open Source SIEM (OSSIM) - SQL Injection / Remote Code Execution (Metasploit),php/remote/33141.rb
+AlienVault OSSIM/USM < 5.3.1 - Remote Code Execution (Metasploit),php/webapps/41424.rb
+Alphaware E-Commerce System 1.0 - Unauthenicated Remote Code Execution (File Upload + SQL injection),php/webapps/49652.py
+AlphaWeb XE - File Upload Remote Code Execution (RCE) (Authenticated),php/webapps/50297.py
+Alstrasoft Template Seller Pro 3.25 - Remote Code Execution,php/webapps/3959.php
+Andy's PHP KnowledgeBase 0.95.4 - 'step5.php' PHP Remote Code Execution,php/webapps/35783.html
+Apache + PHP < 5.3.12 / < 5.4.2 - cgi-bin Remote Code Execution,php/remote/29290.c
+Apache + PHP < 5.3.12 / < 5.4.2 - Remote Code Execution + Scanner,php/remote/29316.py
+Apache 2.4.7 + PHP 7.0.2 - 'openssl_seal()' Uninitialized Memory Code Execution,php/remote/40142.php
+Apache Tomcat/JBoss EJBInvokerServlet / JMXInvokerServlet (RMI over HTTP) Marshalled Object - Remote Code Execution,php/remote/28713.php
+Apple iOS Safari - 'decodeURI' Remote Crash,hardware/dos/15794.php
+Apple iOS Safari - 'decodeURIComponent' Remote Crash,hardware/dos/15796.php
+Ariadne 2.4 - store_config[code] Remote File Inclusion,php/webapps/2710.txt
+Artica Web Proxy 3.06 - Remote Code Execution,php/webapps/43206.txt
+AsteriDex 3.0 - 'callboth.php' Remote Code Execution,php/webapps/4151.sh
+Atom CMS 2.0 - Remote Code Execution (RCE),php/webapps/50840.py
+Attendance and Payroll System v1.0 - Remote Code Execution (RCE),php/webapps/50801.py
+ATutor 2.2.1 - Directory Traversal / Remote Code Execution (Metasploit),php/remote/39639.rb
+ATutor 2.2.1 - SQL Injection / Remote Code Execution (Metasploit),php/remote/39514.rb
+ATutor < 2.2.4 - 'file_manager' Remote Code Execution (Metasploit),php/webapps/46691.rb
+ATutor LMS - '/install_modules.php' Cross-Site Request Forgery / Remote Code Execution,php/webapps/39524.js
+AuraCMS 1.62 - 'stat.php' Remote Code Execution,php/webapps/4933.pl
+AuroraGPT 4.0 - Remote Code Execution,php/webapps/12155.txt
+Auto CMS 1.8 - Remote Code Execution,php/webapps/15369.php
+autonomous lan party 0.98.1.0 - Remote File Inclusion,php/webapps/1654.txt
+AWStats Totals 1.14 - 'AWStatstotals.php' Remote Code Execution,php/webapps/6368.php
+AzDGDatingLite 2.1.3 - Remote Code Execution,php/webapps/1214.php
+BaBB 2.8 - Remote Code Injection,php/webapps/9445.py
+Baldr Botnet Panel - Arbitrary Code Execution (Metasploit),php/remote/47215.rb
+Barcode Generator 2.0 - 'LSTable.php' Remote File Inclusion,php/webapps/32427.txt
+barcodegen 2.0.0 - 'class_dir' Remote File Inclusion,php/webapps/6575.txt
+Batflat CMS 1.3.6 - Remote Code Execution (Authenticated),php/webapps/49573.py
+Beauty-salon v1.0 - Remote Code Execution (RCE),php/webapps/51098.txt
+Beezfud - Remote Code Execution,php/webapps/39093.txt
+Best pos Management System v1.0 - Remote Code Execution (RCE) on File Upload,php/webapps/51280.txt
+Best POS Management System v1.0 - Unauthenticated Remote Code Execution,php/webapps/51462.py
+BigTree CMS 4.4.10 - Remote Code Execution,php/webapps/48831.txt
+Billing System Project 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50102.py
+Bitrix24 - Remote Code Execution (RCE) (Authenticated),php/webapps/50898.py
+Bitweaver 2.6 - 'saveFeed()' Remote Code Execution,php/webapps/8659.php
+Blackcat Cms v1.4 - Remote Code Execution (RCE),php/webapps/51605.txt
+Bludit 3-14-1 Plugin 'UploadPlugin' - Remote Code Execution (RCE) (Authenticated),php/webapps/51160.txt
+Bluetooth Text Chat 1.0 iOS - Code Execution,ios/remote/32738.txt
+Bolt CMS 3.6.6 - Cross-Site Request Forgery / Remote Code Execution,php/webapps/46664.html
+Bolt CMS 3.7.0 - Authenticated Remote Code Execution,php/webapps/48296.py
+Boonex Dolphin 5.2 - 'index.php' Remote Code Execution,php/webapps/2575.php
+Boonex Dolphin 7.3.2 - Authentication Bypass / Remote Code Execution,php/webapps/40756.py
+BoxBilling<=4.22.1.5 - Remote Code Execution (RCE),php/webapps/51108.txt
+BoZoN 2.4 - Remote Code Execution,php/webapps/41084.txt
+BrainyCP V1.0 - Remote Code Execution,php/webapps/51357.py
+Buddypress Xprofile Custom Fields Type 2.6.3 - Remote Code Execution,php/webapps/44432.txt
+Budget and Expense Tracker System 1.0 -  Remote Code Execution (RCE) (Unauthenticated),php/webapps/50308.txt
+Cab Management System 1.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50769.txt
+Cacti 1.2.8 - Remote Code Execution,php/webapps/48128.py
+Cacti v1.2.8 - Unauthenticated Remote Code Execution (Metasploit),php/webapps/48159.rb
+Car Rental Management System 1.0 - Remote Code Execution (Authenticated),php/webapps/49055.txt
+Car Rental Project 2.0 - Arbitrary File Upload to Remote Code Execution,php/webapps/49520.py
+Cart Engine 3.0.0 - Remote Code Execution,php/webapps/32503.txt
+CCleague Pro 1.0.1RC1 - 'cookie' Remote Code Execution,php/webapps/2333.php
+CE Phoenix v1.0.8.20 - Remote Code Execution,php/webapps/51957.py
+Centreo 19.10.8 - 'DisplayServiceStatus' Remote Code Execution,php/webapps/48256.py
+Centreon 19.04 - Authenticated Remote Code Execution (Metasploit),php/webapps/47948.rb
+Centreon 19.04 - Remote Code Execution,php/webapps/47069.py
+Chamilo LMS 1.11.14 - Remote Code Execution (Authenticated),php/webapps/49867.py
+Chatness 2.5.3 - '/options.php/save.php' Remote Code Execution,php/webapps/3725.php
+Chevereto 3.13.4 Core - Remote Code Execution,php/webapps/47903.py
+Chikitsa Patient Management System 2.0.2 - 'backup' Remote Code Execution (RCE) (Authenticated),php/webapps/50572.py
+Chikitsa Patient Management System 2.0.2 - 'plugin' Remote Code Execution (RCE) (Authenticated),php/webapps/50571.py
+Church Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50306.py
+Cisco Prime Infrastructure - (Unauthenticated) Remote Code Execution,multiple/remote/45555.rb
+Cisco UCS Platform Emulator 3.1(2ePE1) - Remote Code Execution,linux/remote/44052.md
+Claroline 1.7.4 - 'scormExport.inc.php' Remote Code Execution,php/webapps/1627.php
+Claroline 1.7.6 - 'includePath' Remote Code Execution,php/webapps/1877.php
+Class-1 Forum 0.24.4 - Remote Code Execution,php/webapps/1207.php
+Clinic Management System 1.0 - SQL injection to Remote Code Execution,php/webapps/50439.py
+Clinic Management System 1.0 - Unauthenticated Remote Code Execution,php/webapps/48544.txt
+ClipBucket 2.8.3 - Remote Code Execution,php/webapps/42954.py
+ClipperCMS 1.3.0 - Code Execution,php/remote/38730.py
+Clipperz Password Manager - '/backend/PHP/src/setup/rpc.php' Remote Code Execution,php/webapps/39191.txt
+CMS Made Simple (CMSMS) Showtime2 - File Upload Remote Code Execution (Metasploit),php/remote/46627.rb
+CMS Made Simple 1.2 - Remote Code Execution,php/webapps/4442.txt
+CMS Made Simple 2.1.6 - Remote Code Execution,php/webapps/44192.txt
+CMS Made Simple 2.2.5 - (Authenticated) Remote Code Execution,php/webapps/44976.py
+CMS Made Simple 2.2.7 - (Authenticated) Remote Code Execution,php/webapps/45793.py
+CMSimple 4.4.4 - 'color' Remote Code Execution,php/webapps/39273.txt
+CMSimple 5.4 - Local file inclusion (LFI) to Remote code execution (RCE) (Authenticated),php/webapps/50547.py
+Cmsimple 5.4 - Remote Code Execution (RCE) (Authenticated),php/webapps/50356.py
+CMSimple_XH 1.7.4 - Remote Code Execution (RCE) (Authenticated),php/webapps/50367.py
+CmsMadeSimple v2.2.17 - Remote Code Execution (RCE),php/webapps/51600.txt
+CMSQLite 1.2 / CMySQLite 1.3.1 - Remote Code Execution,php/webapps/14654.php
+CMSUno 1.6.2 - 'lang' Remote Code Execution (Authenticated),php/webapps/48996.py
+CMSUno 1.6.2 - 'lang' Remote Code Execution (Authenticated),php/webapps/49485.rb
+CMSUno 1.6.2 - 'user' Remote Code Execution (Authenticated),php/webapps/49031.txt
+Cockpit CMS 0.6.1 - Remote Code Execution,php/webapps/49390.txt
+CodeBB 1.0 Beta 2 - 'phpbb_root_path' Remote File Inclusion,php/webapps/3599.txt
+CodeBreak 1.1.2 - 'codebreak.php' Remote File Inclusion,php/webapps/3711.html
+CodeIgniter 1.0 - 'BASEPATH' Multiple Remote File Inclusions,php/webapps/33751.txt
+CodeWand phpBrowse - 'site_path' Remote File Inclusion,php/webapps/3668.txt
+CodoForum v5.1 - Remote Code Execution (RCE),php/webapps/50978.py
+Comdev One Admin 4.1 - 'Adminfoot.php' Remote Code Execution,php/webapps/2573.php
+Complaint Management System 4.0 - Remote Code Execution,php/webapps/47884.py
+Complaints Report Management System 1.0 - 'username' SQL Injection / Remote Code Execution,php/webapps/48985.txt
+Composr 10.0.36 - Remote Code Execution,php/webapps/49753.txt
+Composr-CMS Version <=10.0.39 - Authenticated Remote Code Execution,php/webapps/51060.txt
+Concrete CMS 5.4.1.1 - Cross-Site Scripting / Remote Code Execution,php/webapps/15915.py
+Control Web Panel 7 (CWP7) v0.9.8.1147 -  Remote Code Execution (RCE),php/webapps/51250.go
+Coppermine Photo Gallery 1.4.18 - Local File Inclusion / Remote Code Execution,php/webapps/6178.php
+Core News 2.0.1 - 'index.php' Remote Code Execution,php/webapps/27413.txt
+Covid-19 Contact Tracing System 1.0 - Remote Code Execution (Unauthenticated),php/webapps/49604.py
+Craft CMS 4.4.14 - Unauthenticated Remote Code Execution,php/webapps/51918.py
+CraftCMS 3 vCard Plugin 1.0.0 - Remote Code Execution,php/webapps/48492.py
+Crafty Syntax Image Gallery 3.1g - Remote Code Execution,php/webapps/1645.pl
+Croogo 3.0.2 - Remote Code Execution (Authenticated),php/webapps/50570.txt
+Customer Relationship Management System (CRM) 1.0 - Remote Code Execution,php/webapps/50046.txt
+CuteNews 1.1.1 - 'html.php' Remote Code Execution,php/webapps/4851.txt
+CuteNews 2.1.2 - 'avatar' Remote Code Execution (Metasploit),php/remote/46698.rb
+CuteNews 2.1.2 - Remote Code Execution,php/webapps/48800.py
+Dasan Networks GPON ONT WiFi Router H640X 12.02-01121 / 2.77p1-1124 / 3.03p2-1146 - Remote Code Execution,hardware/webapps/44074.md
+DataLife Engine - 'preview.php' PHP Code Injection (Metasploit),php/remote/24444.rb
+Dayfox Blog 4 - 'postpost.php' Remote Code Execution,php/webapps/3478.html
+DBHcms 1.1.4 - 'code' Remote File Inclusion,php/webapps/5189.pl
+Dell KACE Systems Management Appliance (K1000) 6.4.120756 - Unauthenticated Remote Code Execution,php/webapps/46684.py
+Devalcms 1.4a - Cross-Site Scripting / Remote Code Execution,php/webapps/6369.py
+Device Manager Express 7.8.20002.47752 - Remote Code Execution (RCE),php/webapps/51145.py
+Discuz! 6.x/7.x - Remote Code Execution,php/webapps/7119.php
+Docebo Lms 4.0.4 - 'Messages' Remote Code Execution,php/webapps/18224.php
+Dokeos Lms 1.8.5 - 'Include' Remote Code Execution,php/webapps/8513.pl
+DokuWiki 2006-03-09b - 'dwpage.php' Remote Code Execution,php/webapps/2321.php
+Dolibarr ERP-CRM 12.0.3 - Remote Code Execution (Authenticated),php/webapps/49269.py
+Dolphin 7.0.7 - 'member_menu_queries.php' Remote PHP Code Injection,php/webapps/17994.php
+Dompdf 1.2.1 - Remote Code Execution (RCE),php/webapps/51270.py
+dotclear 2.25.3 - Remote Code Execution (RCE) (Authenticated),php/webapps/51353.txt
+dotDefender 3.8-5 - Remote Code Execution (via Cross-Site Scripting),php/webapps/14310.js
+Double Choco Latte 0.9.3/0.9.4 - 'main.php' Arbitrary PHP Code Execution,php/webapps/25271.txt
+Drupal 7.0 < 7.31 - 'Drupalgeddon' SQL Injection (Remote Code Execution),php/webapps/35150.php
+Drupal 7.x Module Services - Remote Code Execution,php/webapps/41564.php
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote Code (Metasploit),php/webapps/44557.rb
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote Code (Metasploit),php/webapps/44557.rb
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote Code Execution (PoC),php/webapps/44542.txt
+Drupal < 7.58 / < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Remote Code Execution,php/webapps/44449.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Remote Code Execution (Metasploit),php/remote/44482.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Remote Code Execution (Metasploit),php/remote/44482.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Remote Code Execution (PoC),php/webapps/44448.py
+Drupal < 8.6.10 / < 8.5.11 - REST Module Remote Code Execution,php/webapps/46452.txt
+Drupal < 8.6.9 - REST Module Remote Code Execution,php/webapps/46459.py
+Drupal Module CODER 2.5 - Remote Command Execution (Metasploit),php/webapps/40149.rb
+Drupal Module Coder < 7.x-1.3/7.x-2.6 - Remote Code Execution,php/remote/40144.php
+Drupal Module RESTWS 7.x - PHP Remote Code Execution (Metasploit),php/remote/40130.rb
+E-Commerce System 1.0 - Unauthenticated Remote Code Execution,php/webapps/48471.txt
+e-Vision CMS 2.02 - SQL Injection / Remote Code Execution,php/webapps/4054.php
+e107 < 0.75 - GLOBALS Overwrite Remote Code Execution,php/webapps/2268.php
+e107 CMS 2.3.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50315.py
+Easylogin Pro 1.3.0 - 'Encryptor.php' Unserialize Remote Code Execution,php/remote/45227.php
+EasyPHP - '/index.php' Authentication Bypass / Remote PHP Code Injection,php/webapps/38438.txt
+Eaton Network Shutdown Module 3.21 - Remote PHP Code Injection,php/webapps/30059.py
+EC Software Help & Manual 5.5.1 Build 1296 - 'ijl15.dll' DLL Loading Arbitrary Code Execution,windows/remote/35614.c
+ECSIMAGING PACS 6.21.5 - Remote code execution,php/webapps/49388.txt
+eLabFTW 1.8.5 - Arbitrary File Upload / Remote Code Execution,php/webapps/46869.py
+Employee Record System 1.0 - Unrestricted File Upload to Remote Code Execution,php/webapps/49389.txt
+Engineers Online Portal 1.0 - File Upload Remote Code Execution (RCE),php/webapps/50444.txt
+Envolution 1.1.0 - 'PNSVlang' Remote Code Execution,php/webapps/2888.php
+Eventum 2.3.4 - 'hostname' Remote Code Execution,php/webapps/39066.txt
+eVision CMS 2.0 - Remote Code Execution,php/webapps/7947.pl
+Evolution CMS 3.1.6 - Remote Code Execution (RCE) (Authenticated),php/webapps/50296.py
+Exam Reviewer Management System 1.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50726.txt
+eXtplorer<= 2.1.14 - Authentication Bypass & Remote Code Execution (RCE),php/webapps/51067.txt
+extreme-fusion 4.02 - Remote Code Execution,php/webapps/2937.php
+EyeLock nano NXT 3.5 - Remote Code Execution,php/webapps/40228.py
+eyeOS 0.8.x - Session Remote Command Execution,php/webapps/27166.txt
+EyesOfNetwork (EON) 5.0 - Remote Code Execution,php/webapps/41746.md
+EyesOfNetwork 5.3 - Remote Code Execution,php/webapps/48025.txt
+EZDatabaseRemote 2.0 - PHP Script Code Execution,php/webapps/27080.txt
+eZoneScripts Hotornot2 Script - (Authentication Bypass) Multiple Remote Vulnerabilities,php/webapps/8793.txt
+F3Site 2.1 - Remote Code Execution,php/webapps/3255.php
+Facebook And Google Reviews System For Businesses 1.1 - Remote Code Execution,php/webapps/45995.txt
+Fantastic News 2.1.2 - 'script_path' Remote Code Execution,php/webapps/1553.pl
+Feed on Feeds 0.5 - Remote PHP Code Injection,php/webapps/17911.php
+Feehi CMS 2.1.1 - Remote Code Execution (Authenticated),php/webapps/51018.txt
+File Manager Advanced Shortcode 2.3.2 - Unauthenticated Remote Code Execution (RCE),php/webapps/51505.py
+File Thingie 2.5.7 - Remote Code Execution (RCE),php/webapps/51436.py
+Filerun 2021.03.26 - Remote Code Execution (RCE) (Authenticated),php/webapps/50313.py
+Firepack - '/admin/ref.php' Remote Code Execution,php/webapps/8075.pl
+Flat Chat 2.0 - 'include online.txt' Remote Code Execution,php/webapps/3428.txt
+FlatCore CMS 2.0.7 - Remote Code Execution (RCE) (Authenticated),php/webapps/50262.py
+Flatnuke 2.5.5 - Remote Code Execution,php/webapps/1140.php
+flatnux 2021-03.25 - Remote Code Execution (Authenticated),php/webapps/51295.txt
+Flatpress 1.0 - Remote Code Execution,php/webapps/29515.pl
+Fleetco Fleet Maintenance Management 1.2 - Remote Code Execution,php/webapps/45927.py
+Flexpaper PHP Publish Service 2.3.6 - Remote Code Execution,php/webapps/46528.py
+Fonality trixbox - 'index.php' Remote Code Execution,php/webapps/39352.txt
+Fonality trixbox - 'mac' Remote Code Injection,php/webapps/32263.txt
+Free School Management Software 1.0 - Remote Code Execution (RCE),php/webapps/50587.txt
+FreePBX - 'config.php' Remote Code Execution (Metasploit),unix/remote/32512.rb
+FreePBX 2.10.0 / Elastix 2.2.0 - Remote Code Execution,php/webapps/18650.py
+FreePBX 2.8.0 - Recordings Interface Allows Remote Code Execution,php/webapps/15098.txt
+FreePBX 2.9.0/2.10.0 - 'callmenum' Remote Code Execution (Metasploit),php/webapps/18659.rb
+Freepbx < 2.11.1.5 - Remote Code Execution,php/webapps/41005.txt
+FREEsimplePHPGuestbook - 'Guestbook.php' Remote Code Execution,php/webapps/7079.txt
+FreeWebShop 2.2.9 R2 - 'ajax_save_name.php' Remote Code Execution,php/webapps/18121.txt
+FreeWPS 2.11 - 'images.php' Remote Code Execution,php/webapps/1600.php
+Froxlor 2.0.3 Stable - Remote Code Execution (RCE),php/webapps/51263.py
+FUDforum - Multiple Remote PHP Code Injection Vulnerabilities,php/webapps/38418.txt
+FUDForum 3.0.9 - Remote Code Execution,php/webapps/47650.txt
+Fuel CMS 1.4.1 - Remote Code Execution (2),php/webapps/49487.rb
+Fuel CMS 1.4.1 - Remote Code Execution (3),php/webapps/50477.py
+Fundanemt 2.2.0 - 'spellcheck.php' Remote Code Execution,php/webapps/3998.php
+FusionPBX 4.5.29 - Remote Code Execution (RCE) (Authenticated),php/webapps/50505.py
+Fuzzylime CMS 3.01 - 'commrss.php' Remote Code Execution,php/webapps/6060.php
+Fuzzylime CMS 3.01 - 'poll' Remote Code Execution,php/webapps/6053.php
+Fuzzylime CMS 3.01 - 'poll' Remote Code Execution,php/webapps/6054.pl
+Galmeta Post CMS 0.2 - Remote Code Execution / Arbitrary File Upload,php/webapps/6541.txt
+Gazelle CMS 1.0 - Multiple Vulnerabilities / Remote Code Execution,php/webapps/9425.sh
+gCards 1.46 - SQL Injection / Remote Code Execution,php/webapps/3988.php
+GeekLog 1.4.0sr3 - 'f(u)ckeditor' Remote Code Execution,php/webapps/1964.php
+GetSimple CMS v3.3.16 - Remote Code Execution (RCE),php/webapps/51475.py
+GetSimpleCMS - Unauthenticated Remote Code Execution (Metasploit),php/remote/46880.rb
+GGCMS 1.1.0 RC1 - Remote Code Execution,php/webapps/3271.php
+Gila CMS 1.10.9 - Remote Code Execution (RCE) (Authenticated),php/webapps/51569.py
+Gila CMS 2.0.0 - Remote Code Execution (Unauthenticated),php/webapps/49412.py
+GitList 0.6 - Remote Code Execution,php/webapps/44548.py
+GitStack - Remote Code Execution,php/webapps/44044.md
+GitStack 2.3.10 - Remote Code Execution,php/webapps/43777.py
+GLPI  Cartography Plugin v6.0.0 - Unauthenticated Remote Code Execution (RCE),php/webapps/51234.txt
+GLPI 0.83.9 - 'Unserialize()' Remote Code Execution,php/webapps/26530.txt
+GLPI 0.85.5 - Arbitrary File Upload / Filter Bypass / Remote Code Execution,php/webapps/38407.txt
+GLPI 9.4.5 - Remote Code Execution (RCE),php/webapps/49992.py
+Gravity Board X 1.1 - 'csscontent' Remote Code Execution,php/webapps/1510.pl
+Gravity GTD 0.4.5 - Local File Inclusion / Remote Code Execution,php/webapps/7344.txt
+GreenCMS 2.3.0603 - Cross-Site Request Forgery / Remote Code Execution,php/webapps/44825.html
+Guestbook Script 1.7 - 'include_files' Remote Code Execution,php/webapps/1575.pl
+Guestex Guestbook 1.00 - 'email' Remote Code Execution,php/webapps/1892.pl
+GuppY CMS v6.00.10 - Remote Code Execution,php/webapps/51052.txt
+GWebmail 0.7.3 - Cross-Site Scripting / Local File Inclusion / Remote Code Execution,php/webapps/20669.py
+Gym Management System 1.0 - Unauthenticated Remote Code Execution,php/webapps/48506.py
+HAMweather 3.9.8 - 'template.php' Script Code Injection,php/webapps/28740.txt
+Havij - OLE Automation Array Remote Code Execution,windows/remote/37400.php
+HIOX GUEST BOOK (HGB) 4.0 - Remote Code Execution,php/webapps/3697.txt
+HiveMail 1.3 - 'addressbook.add.php' Remote Code Execution,php/webapps/1756.pl
+Home Owners Collection Management System 1.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50731.txt
+HomeAutomation 3.3.2 - Remote Code Execution,php/webapps/47809.txt
+Horde 3.0.9/3.1.0 - Help Viewer Remote Code Execution (Metasploit),php/webapps/1660.pm
+Horde 3.3.12 - Backdoor Arbitrary PHP Code Execution (Metasploit),linux/remote/18492.rb
+Horde Framework - Unserialize PHP Code Execution (Metasploit),php/remote/32439.rb
+Horde Groupware Webmail 3/4/5 - Multiple Remote Code Executions,php/webapps/41864.txt
+Horde Groupware Webmail Edition 5.2.22 - Remote Code Execution,php/webapps/48215.sh
+HostBill App 2.3 - Remote Code Injection,php/webapps/18428.txt
+Hotel and Lodge Management System 1.0 - Remote Code Execution (Unauthenticated),php/webapps/49625.py
+Hotel Druid 3.0.3 - Remote Code Execution (RCE),php/webapps/50754.py
+Hotel Management System 1.0 - Cross-Site Scripting (XSS) Arbitrary File Upload Remote Code Execution (RCE),php/webapps/50173.py
+Hotel Management System 1.0 - Remote Code Execution (Authenticated),php/webapps/48888.py
+HP Insight Diagnostics - Remote Code Injection,php/webapps/38562.txt
+HP Operations Manager 8.16 - 'srcvw4.dll' 'LoadFile()'/'SaveFile()' Remote Unicode Stack Overflow (PoC),windows/dos/12302.html
+HPE Intelligent Management Center (iMC) 7.2 (E0403P10) - Code Execution,linux/remote/44073.md
+HSRS 1.0 - 'addcode.php' Remote File Inclusion,php/webapps/2838.txt
+HTML Compiler - Remote Code Execution,windows/remote/38500.php
+Human Resource Information System 0.1 - Remote Code Execution (Unauthenticated),php/webapps/49847.py
+HybridAuth - 'install.php' PHP Code Execution (Metasploit),php/remote/34390.rb
+HybridAuth 2.2.2 - Remote Code Execution,php/webapps/34273.txt
+i-doit CMDB 1.11.2 - Remote Code Execution,php/webapps/45957.py
+IBM Informix Dynamic Server / Informix Open Admin Tool - DLL Injection / Remote Code Execution / Heap Buffer Overflow,windows/webapps/42091.txt
+IBM OpenAdmin Tool - SOAP welcomeServer PHP Code Execution (Metasploit),php/remote/42541.rb
+IBM Tivoli Directory Server SASL - Bind Request Remote Code Execution,windows/dos/17188.txt
+IceBB 1.0-rc5 - Remote Code Execution,php/webapps/3581.pl
+Icinga Web 2.10 - Authenticated Remote Code Execution,php/webapps/51586.py
+iGENUS WebMail 2.0.2 - 'config_inc.php' Remote Code Execution,php/webapps/1527.pl
+Ignition 1.2 - 'comment' Remote Code Injection,php/webapps/9437.txt
+Ignition 1.3 - Remote Code Execution,php/webapps/15865.php
+Ikraus Anti Virus 2.16.7 - Remote Code Execution,windows/remote/44055.md
+ImpressCMS 1.4.2 - Remote Code Execution (RCE),php/webapps/50839.php
+ImpressCMS 1.4.2 - Remote Code Execution (RCE) (Authenticated),php/webapps/50298.py
+ImpressPages CMS 3.6 - 'manage()' Remote Code Execution,php/webapps/29331.txt
+InfraPower PPS-02-S Q213V1 - Hard-Coded Credentials,hardware/remote/40643.txt
+Innovate Portal 2.0 - 'acp.php' Remote Code Execution,php/webapps/2697.php
+InoERP 0.7.2 - Remote Code Execution (Unauthenticated),php/webapps/48946.py
+Inout Search Engine - Remote Code Execution,php/webapps/4004.php
+InstantCMS 1.6 - PHP Remote Code Execution (Metasploit),php/remote/26622.rb
+Integard Pro 2.2.0.9026 - Windows 7 ROP-Code (Metasploit),windows/remote/15016.rb
+Internet Download Manager - OLE Automation Array Remote Code Execution,windows/remote/37668.php
+Internship Portal Management System 1.0 - Remote Code Execution(Unauthenticated),php/webapps/49823.py
+Interspire Email Marketer 6.20 - 'surveys_submit.php' Remote Code Execution,php/webapps/46864.txt
+Invision Power Board (IP.Board) 3.3.4 - 'Unserialize()' PHP Code Execution (Metasploit),php/remote/22686.rb
+Invision Power Board 2.1.5 - 'lastdate' Remote Code Execution,php/webapps/1720.pl
+Invision Power Board 2.1.5 - 'search.php' Remote Code Execution,php/webapps/1726.pl
+Iris ID IrisAccess iCAM4000/iCAM7000 - Hard-Coded Credentials Remote Shell Access,linux/remote/40167.txt
+iScripts EasyCreate 3.0 - Remote Code Execution,php/webapps/39387.py
+ISPConfig - (Authenticated) Arbitrary PHP Code Execution (Metasploit),php/remote/29322.rb
+ItCMS 1.9 - 'boxpop.php' Remote Code Execution,php/webapps/5532.txt
+iWare Pro 5.0.4 - 'chat_panel.php' Remote Code Execution,php/webapps/2733.txt
+iziContents RC6 - Remote Code Execution,php/webapps/2261.php
+Jasmine CMS 1.0 - SQL Injection / Remote Code Execution,php/webapps/4081.php
+JBC Explorer 7.20 RC 1 - Remote Code Execution,php/webapps/4608.php
+JC URLShrink 1.3.1 - Remote Code Execution,php/webapps/3611.txt
+Jedox 2020.2.5 - Remote Code Execution via Configurable Storage Path,php/webapps/51426.txt
+Jedox 2020.2.5 - Remote Code Execution via Executable Groovy-Scripts,php/webapps/51427.txt
+Jedox 2022.4.2 - Remote Code Execution via Directory Traversal,php/webapps/51424.txt
+Jieqi CMS 1.5 - Remote Code Execution,php/webapps/8725.php
+Job Portal 1.0 - Remote Code Execution,php/webapps/47881.py
+Joomla! 1.5 < 3.4.6 - Object Injection 'x-forwarded-for' Header Remote Code Execution,php/webapps/39033.py
+Joomla! 1.5 Beta 2 - 'Search' Remote Code Execution,php/webapps/4212.txt
+Joomla! 1.5.12 TinyMCE - Remote Code Execution (via Arbitrary File Upload),php/webapps/10183.php
+Joomla! 3.4.4 Component Content History - SQL Injection / Remote Code Execution (Metasploit),php/remote/38797.rb
+Joomla! 3.4.6 - 'configuration.php' Remote Code Execution,php/webapps/47465.py
+Joomla! 3.4.6 - Remote Code Execution,php/webapps/47524.py
+Joomla! 3.4.6 - Remote Code Execution (Metasploit),php/webapps/47539.rb
+Joomla! 3.7 - SQL Injection,php/remote/44227.php
+Joomla! < 2.5.2 - Admin Creation,php/webapps/41156.py
+Joomla! < 3.6.4 - Admin Takeover,php/webapps/41157.py
+Joomla! Component Akeeba Kickstart - Unserialize Remote Code Execution (Metasploit),php/remote/35033.rb
+Joomla! Component Community Builder Enhanced (CBE) 1.4.8/1.4.9/1.4.10 - Local File Inclusion / Remote Code Execution,php/webapps/15222.txt
+Joomla! Component com_civicrm 4.2.2 - Remote Code Injection,php/webapps/24969.txt
+Joomla! Component Fields - SQLi Remote Code Execution (Metasploit),php/webapps/44358.rb
+Joomla! Component Fields - SQLi Remote Code Execution (Metasploit),php/webapps/44358.rb
+Joomla! Component Module Simple File Upload 1.3 - Remote Code Execution,php/webapps/18287.php
+Joomla! Component mod_VisitorData 1.1 - Remote code Execution,php/webapps/12574.txt
+Joomla! Component vBizz 1.0.7 - Remote Code Execution,php/webapps/46224.txt
+Journalness 4.1 - 'last_module' Remote Code Execution,php/webapps/5091.pl
+jPORTAL 2.3.1 & UserPatch - 'forum.php' Remote Code Execution,php/webapps/4807.php
+jQuery - jui_filter_rules PHP Code Execution,php/remote/36124.txt
+Judging Management System v1.0 - Remote Code Execution (RCE),php/webapps/51164.py
+Kaltura - Remote PHP Code Execution over Cookie (Metasploit),php/remote/43876.rb
+Kaltura 11.1.0-2 - Remote Code Execution (Metasploit),php/remote/40404.rb
+Kaltura < 13.2.0 - Remote Code Execution,php/webapps/43028.py
+Kemana Directory 1.5.6 - Remote Code Execution,php/webapps/32507.txt
+KGB 1.87 - Local File Inclusion / Remote Code Execution,php/webapps/2447.php
+KikChat - Local File Inclusion / Remote Code Execution,php/webapps/30235.txt
+KnowledgebasePublisher 1.2 - 'Include' Remote Code Execution,php/webapps/1587.pl
+KodExplorer v4.51.03 - Pwned-Admin File-Inclusion - Remote Code Execution (RCE),php/webapps/51419.txt
+Kusaba 1.0.4 - Remote Code Execution (1),php/webapps/6706.php
+Kusaba 1.0.4 - Remote Code Execution (2),php/webapps/6711.html
+KwsPHP - 'Upload' Remote Code Execution,php/webapps/5449.php
+Laravel 8.4.2 debug mode - Remote code execution,php/webapps/49424.py
+Laundry Booking Management System 1.0 - Remote Code Execution (RCE),php/webapps/50556.py
+Lepide Auditor Suite - 'createdb()' Web Console Database Injection / Remote Code Execution,php/remote/42297.py
+LEPTON 2.2.2 - Remote Code Execution,php/webapps/40801.txt
+LeptonCMS 7.0.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/51949.txt
+LibreHealth 2.0.0 - Authenticated Remote Code Execution,php/webapps/48702.txt
+LibreNMS 1.46 - 'addhost' Remote Code Execution,php/webapps/47044.py
+LifeSize UVC 1.2.6 - (Authenticated) Remote Code Execution,php/webapps/32437.txt
+Light Weight Calendar 1.x - 'date' Remote Code Execution,php/webapps/1570.pl
+LightBlog 8.4.1.1 - Remote Code Execution,php/webapps/4505.php
+LightBlog 9.9.2 - 'register.php' Remote Code Execution,php/webapps/8543.php
+Lightweight facebook-styled blog 1.3 - Remote Code Execution (RCE) (Authenticated) (Metasploit),php/webapps/50064.rb
+Lilac-Reloaded for Nagios 2.0.8 - Remote Code Execution (RCE),php/webapps/51374.py
+Limbo CMS 1.0.4.2 - 'itemID' Remote Code Execution,php/webapps/1541.pl
+Limbo CMS 1.0.4.2 - 'itemID' Remote Code Execution (Metasploit),php/webapps/1563.pm
+Limbo CMS 1.0.4.2L - 'com_contact' Remote Code Execution,php/webapps/2370.php
+LimeSurvey 5.2.4 - Remote Code Execution (RCE) (Authenticated),php/webapps/50573.py
+LimeSurvey < 3.16 - Remote Code Execution,php/webapps/46634.py
+Link Request Contact Form 3.4 - Remote Code Execution,php/webapps/4059.txt
+Linksys E-series - Remote Code Execution,hardware/remote/31683.php
+Live Call Support Widget 1.5 - Remote Code Execution / SQL Injection,php/webapps/46141.txt
+liveSite Version 2019.1 - Remote Code Execution,php/webapps/51936.txt
+LiveZilla 5.0.1.4 - Remote Code Execution,php/webapps/29672.txt
+Loadbalancer.org Enterprise VA MAX 8.3.2 - Remote Code Execution,php/webapps/45758.py
+Log1 CMS 2.0 - 'ajax_create_folder.php' Remote Code Execution,php/webapps/18151.php
+Logicspice FAQ Script 2.9.7 - Remote Code Execution,php/webapps/45326.txt
+Lot Reservation Management System - Unauthenticated File Upload and Remote Code Execution,php/webapps/51860.txt
+Lotus CMS Fraise 3.0 - Local File Inclusion / Remote Code Execution,php/webapps/15964.py
+Lotus Mail Encryption Server 2.1.0.1 (Protector for Mail) - Local File Inclusion / Remote Code Execution (Metasploit),php/webapps/35588.rb
+LoudBlog 0.6.1 - 'parsedpage' Remote Code Execution,php/webapps/4849.txt
+LoveCMS 1.6.2 Final - Remote Code Execution,php/webapps/6209.rb
+LS Simple Guestbook 1.0 - Remote Code Execution,php/webapps/3735.txt
+m1k1o's Blog v.10 - Remote Code Execution (RCE) (Authenticated),php/webapps/50943.py
+MacKeeper - URL Handler Remote Code Execution,osx/remote/36955.py
+Magento CE < 1.9.0.1 - (Authenticated) Remote Code Execution,php/webapps/37811.py
+Maian-Cart 3.8 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50394.py
+Mantis Bug Tracker 1.1.3 - 'manage_proj_page' PHP Code Execution (Metasploit),php/remote/44611.rb
+Mantis Bug Tracker 1.1.3 - Remote Code Execution,php/webapps/6768.txt
+Mantis Bug Tracker 1.2.0a3 < 1.2.17 XmlImportExport Plugin - PHP Code Injection (Metasploit) (2),php/remote/35283.rb
+Mantis Bug Tracker 2.3.0 - Remote Code Execution (Unauthenticated),php/webapps/48818.py
+Mapbender 2.4.4 - 'mapFiler.php' Remote Code Execution,php/webapps/5232.txt
+Mara CMS 7.5 - Remote Code Execution (Authenticated),php/webapps/48780.txt
+Maran PHP Forum - 'forum_write.php' Remote Code Execution,php/webapps/3775.txt
+MDForum 2.0.1 - 'PNSVlang' Remote Code Execution,php/webapps/3057.php
+MedDream PACS Server 6.8.3.751 - Remote Code Execution (Authenticated),php/webapps/48853.py
+MedDream PACS Server 6.8.3.751 - Remote Code Execution (Unauthenticated),php/webapps/48868.py
+MemHT Portal 4.0 - Remote Code Execution,php/webapps/7057.pl
+MemHT Portal 4.0.1 - Remote Code Execution,php/webapps/7859.pl
+meterN v1.2.3 - Remote Code Execution (RCE) (Authenticated),php/webapps/50596.txt
+MG2 0.5.1 - 'filename' Remote Code Execution,php/webapps/7379.txt
+Micro Focus Secure Messaging Gateway (SMG) < 471 - Remote Code Execution (Metasploit),php/webapps/45083.rb
+Micro Focus Secure Messaging Gateway (SMG) < 471 - Remote Code Execution (Metasploit),php/webapps/45083.rb
+Microsoft IIS 4.0/5.0 and PWS - Extended Unicode Directory Traversal (4),windows/remote/20301.php
+Microsoft Windows HTA (HTML Application) - Remote Code Execution (MS14-064),windows/remote/37800.php
+Microweber 1.0.3 - Arbitrary File Upload / Filter Bypass / PHP Remote Code Execution,php/webapps/37735.txt
+Microweber 1.2.11 - Remote Code Execution (RCE) (Authenticated),php/webapps/50768.txt
+Microweber CMS 1.1.20 - Remote Code Execution (Authenticated),php/webapps/49856.py
+minb 0.1.0 - Remote Code Execution,php/webapps/6432.py
+MiniGal b13 - Remote Code Execution,php/webapps/3754.pl
+Modx Revolution < 2.6.4 - Remote Code Execution,php/webapps/45055.py
+MODX Revolution v2.8.3-pl - Authenticated Remote Code Execution,php/webapps/51059.txt
+Monalbum 0.8.7 - Remote Code Execution,php/webapps/3903.php
+Monitorr 1.7.6m - Remote Code Execution (Unauthenticated),php/webapps/48980.py
+Monstra CMS 3.0.4 - (Authenticated) Arbitrary File Upload / Remote Code Execution,php/webapps/43348.txt
+Monstra CMS 3.0.4 - Remote Code Execution (Authenticated),php/webapps/49949.py
+Moodle 1.8.4 - Remote Code Execution,php/webapps/6356.php
+Moodle 1.9.3 - Remote Code Execution,php/webapps/7437.txt
+Moodle 3.4.1 - Remote Code Execution,php/webapps/46551.php
+Moodle 3.9 - Remote Code Execution (RCE) (Authenticated),php/webapps/50180.py
+Mozzers SubSystem final - 'subs.php' Remote Code Execution,php/webapps/3761.txt
+Multi-Vendor Online Groceries Management System 1.0 - Remote Code Execution,php/webapps/51394.py
+Multiple WordPress Plugins (TimThumb 2.8.13 / WordThumb 1.07) - 'WebShot' Remote Code Execution,php/webapps/33851.txt
+MundiMail 0.8.2 - Remote Code Execution,php/webapps/10287.txt
+mUnky 0.01 - 'index.php' Remote Code Execution,php/webapps/32250.py
+My Gaming Ladder Combo System 7.0 - Remote Code Execution,php/webapps/1707.pl
+MyBB 1.4.6 - Remote Code Execution,php/webapps/9001.php
+MyBB 1.6.11 - Remote Code Execution,php/webapps/29935.php
+MyBB 1.8.13 - Remote Code Execution,php/webapps/43136.txt
+MyBB 1.8.2 - 'unset_globals()' Function Bypass / Remote Code Execution,php/webapps/35323.md
+MyBB 1.8.29 - MyBB 1.8.29 - Remote Code Execution (RCE) (Authenticated),php/webapps/50924.py
+MyBB 1.8.32 - Remote Code Execution (RCE) (Authenticated),php/webapps/51213.py
+MyBB < 1.8.21 - Remote Code Execution,php/webapps/47161.php
+MyBB < 1.8.3 (with PHP 5.6 < 5.6.11) - Remote Code Execution,php/webapps/41150.md
+MyBulletinBoard (MyBB) 1.2.10 - Remote Code Execution,php/webapps/4927.php
+MyBulletinBoard (MyBB) 1.2.3 - Remote Code Execution,php/webapps/3653.php
+MyBulletinBoard (MyBB) < 1.1.3 - Remote Code Execution,php/webapps/1909.pl
+MySource 2.14 - 'mimeDecode.php?PEAR_PATH' Remote File Inclusion,php/webapps/26372.txt
+MySQLDumper 1.24.4 - 'menu.php' PHP Remote Code Execution,php/webapps/37134.php
+Nagios XI 5.5.6 - Magpie_debug.php Root Remote Code Execution (Metasploit),linux/remote/47039.rb
+Nagios XI 5.6.12 - 'export-rrd.php' Remote Code Execution,php/webapps/48640.txt
+Nagios XI 5.6.5 - Remote Code Execution / Root Privilege Escalation,php/webapps/47299.php
+Nagios XI 5.7.X - Remote Code Execution RCE (Authenticated),php/webapps/49422.py
+NanoCMS v0.4 - Remote Code Execution (RCE) (Authenticated),php/webapps/50997.py
+NAS4Free - Remote Code Execution (Metasploit),php/remote/29320.rb
+Native Instruments (Multiple Products) - DLL Loading Arbitrary Code Execution,windows/remote/35007.c
+NavBoard 2.6.0 - Remote Code Execution,php/webapps/3971.php
+Navigate CMS - (Unauthenticated) Remote Code Execution (Metasploit),php/remote/45561.rb
+NeoBill - '/modules/nullregistrar/PHPwhois/example.php?query' Remote Code Execution,php/webapps/38863.php
+Net Portal Dynamic System (NPDS) 5.10 - Remote Code Execution (1),php/webapps/3505.php
+Net Portal Dynamic System (NPDS) 5.10 - Remote Code Execution (2),php/webapps/3855.php
+Network Shutdown Module 3.21 - 'sort_values' Remote PHP Code Injection (Metasploit),php/remote/23006.rb
+Nitrotech 0.0.3a - Remote Code Execution,php/webapps/2685.php
+No-CMS 0.6.6 rev 1 - Admin Account Hijacking / Remote Code Execution via Static Encryption Key,php/webapps/32976.php
+Noahs Classifieds 1.3 - 'lowerTemplate' Remote Code Execution,php/webapps/1521.php
+NOCC Webmail 1.0 - Local File Inclusion / Remote Code Execution,php/webapps/1522.php
+Node.JS - 'node-serialize' Remote Code Execution,linux/remote/45265.js
+nodesforum 1.059 - Remote File Inclusion,php/webapps/17446.txt
+Nuggetz CMS 1.0 - Remote Code Execution,php/webapps/10378.txt
+Nuked-klaN 1.7.6 - Remote Code Execution,php/webapps/3858.php
+Nuts CMS - PHP Remote Code Injection / Execution,php/webapps/37809.php
+NUUO NVRmini 2 3.0.8 - Remote Code Execution,php/webapps/40209.py
+N_CMS 1.1E - Local File Inclusion / Remote Code,php/webapps/16961.py
+October CMS - Upload Protection Bypass Code Execution (Metasploit),php/remote/47376.rb
+Omeka 2.2.1 - Remote Code Execution,php/remote/34160.py
+Online Admission System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50623.py
+Online Book Store 1.0 - Unauthenticated Remote Code Execution,php/webapps/47887.py
+Online Catering Reservation System 1.0 - Remote Code Execution (Unauthenticated),php/webapps/49603.py
+Online Computer and Laptop Store 1.0 - Remote Code Execution (RCE),php/webapps/51358.py
+Online Course Registration 1.0 - Unauthenticated Remote Code Execution,php/webapps/48704.py
+Online Course Registration 2.0 - Remote Code Execution,php/webapps/47843.txt
+Online Covid Vaccination Scheduler System 1.0 - Arbitrary File Upload to Remote Code Execution (Unauthenticated),php/webapps/50114.py
+Online Diagnostic Lab Management System v1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/51045.txt
+Online Discussion Forum Site 1.0 - Remote Code Execution,php/webapps/48512.txt
+Online Food Ordering System 1.0 - Remote Code Execution,php/webapps/48827.txt
+Online Food Ordering System 2.0 -  Remote Code Execution (RCE) (Unauthenticated),php/webapps/50305.py
+Online ID Generator 1.0 - Remote Code Execution (RCE),php/webapps/51728.txt
+Online Job Portal 1.0 - Remote Code Execution,php/webapps/48012.txt
+Online Learning System 2.0 - Remote Code Execution (RCE),php/webapps/50526.py
+Online Library Management System 1.0 - Arbitrary File Upload Remote Code Execution (Unauthenticated),php/webapps/50054.py
+Online Marriage Registration System (OMRS) 1.0 - Remote Code Execution (2),php/webapps/49260.py
+Online Marriage Registration System (OMRS) 1.0 - Remote code execution (3),php/webapps/49557.py
+Online Marriage Registration System 1.0 - Remote Code Execution (1),php/webapps/48552.sh
+Online Matrimonial Project 1.0 - Authenticated Remote Code Execution,php/webapps/49183.py
+Online Railway Reservation System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50647.txt
+Online Reviewer System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50319.py
+Online Shopping Portal 3.1 - Remote Code Execution (Unauthenticated),php/webapps/50029.py
+Online Student's Management System 1.0 - Remote Code Execution (Authenticated),php/webapps/48896.txt
+Online Traffic Offense Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50221.py
+Online Voting System 1.0 - Remote Code Execution (Authenticated),php/webapps/50076.txt
+Online Voting System 1.0 - SQLi (Authentication Bypass) + Remote Code Execution (RCE),php/webapps/50088.py
+Online-Pizza-Ordering -1.0 - Remote Code Execution (RCE),php/webapps/51344.txt
+Open Conference/Journal/Harvester Systems 2.3.x - Multiple Remote Code Execution Vulnerabilities,php/webapps/18266.py
+Open Web Analytics 1.7.3 - Remote Code Execution,php/webapps/51026.py
+Open-AudIT Professional 3.3.1 - Remote Code Execution,php/webapps/48393.py
+Open-Letters - Remote PHP Code Injection,php/webapps/36816.php
+Open-Realty 2.4.3 - 'last_module' Remote Code Execution,php/webapps/5090.pl
+OpenCart 2.1.0.2 < 2.2.0.0 - json_decode Function Remote Code Execution,php/webapps/39679.txt
+OpenCATS 0.9.4 - Remote Code Execution (RCE),php/webapps/50585.sh
+OpenEMR 4.1.1 Patch 14 - SQL Injection / Privilege Escalation / Remote Code Execution (Metasploit),php/remote/28408.rb
+OpenEMR 5.0.0 - Remote Code Execution (Authenticated),php/webapps/49983.py
+OpenEMR 5.0.1 - 'controller' Remote Code Execution,php/webapps/48623.txt
+OpenEMR 5.0.1 - Remote Code Execution (1),php/webapps/48515.py
+OpenEMR 5.0.1 - Remote Code Execution (Authenticated) (2),php/webapps/49486.rb
+OpenEMR 5.0.1.3 - 'manage_site_files' Remote Code Execution (Authenticated),php/webapps/49998.py
+OpenEMR 5.0.1.3 - 'manage_site_files' Remote Code Execution (Authenticated) (2),php/webapps/50122.rb
+OpenEMR 5.0.1.3 - Remote Code Execution (Authenticated),php/webapps/45161.py
+OpenEMR 5.0.2.1 - Remote Code Execution,php/webapps/49784.py
+OpenNetAdmin 13.03.01 - Remote Code Execution,php/webapps/26682.txt
+OpenNetAdmin 18.1.1 - Remote Code Execution,php/webapps/47691.sh
+opennews 1.0 - SQL Injection / Remote Code Execution,php/webapps/9371.txt
+OpenSIS 'modname' - PHP Code Execution (Metasploit),linux/remote/30471.rb
+OpenX - 'banner-edit.php' Arbitrary File Upload / PHP Code Execution (Metasploit),php/remote/16903.rb
+OpenX - Backdoor PHP Code Execution (Metasploit),php/remote/27529.rb
+Opera Web Browser 8.51 - URI redirection Remote Code Execution,php/webapps/32467.txt
+Oracle Knowledge Management 12.1.1 < 12.2.5 - XML External Entity Leading To Remote Code Execution,multiple/webapps/44041.txt
+OrientDB - Code Execution,windows/remote/44068.md
+osCommerce 2.3.4.1 - Remote Code Execution,php/webapps/44374.py
+osCommerce 2.3.4.1 - Remote Code Execution (2),php/webapps/50128.py
+OSI Codes PHP Live! Support 3.1 - Remote File Inclusion,php/webapps/10294.txt
+osTicket 1.2/1.3 - Multiple Input Validation / Remote Code Injection Vulnerabilities,php/webapps/25590.txt
+OV3 Online Administration 3.0 - Remote Code Execution,php/webapps/42096.txt
+ownCloud 4.0.x/4.5.x - 'upload.php?Filename' Remote Code Execution,multiple/webapps/32162.txt
+Oxwall 1.7.0 - Remote Code Execution,php/remote/34191.py
+OxYProject 0.85 - 'edithistory.php' Remote Code Execution,php/webapps/5524.txt
+PacerCMS 0.6 - 'last_module' Remote Code Execution,php/webapps/5098.txt
+PAJAX 0.5.1 - Remote Code Execution,php/webapps/1672.pl
+Pandora 7.0NG - Remote Code Execution,php/webapps/47898.py
+Pandora Fms - SQL Injection Remote Code Execution (Metasploit),php/remote/35380.rb
+Pandora FMS 7.0NG - 'net_tools.php' Remote Code Execution,php/webapps/48280.py
+Pandora FMS v7.0NG.742 - Remote Code Execution (RCE) (Authenticated),php/webapps/50961.py
+PANDORAFMS 7.0 - Authenticated Remote Code Execution,php/webapps/48064.py
+PANews 2.0 - PHP Remote Code Execution,php/webapps/25145.txt
+part-db 0.5.11 - Remote Code Execution (RCE),php/webapps/50800.sh
+patBBcode 1.0 - 'bbcodeSource.php' Remote File Inclusion,php/webapps/4621.txt
+PBlang 4.66z - Remote Code Execution,php/webapps/3574.pl
+PBLang 4.67.16.a - Remote Code Execution,php/webapps/4036.php
+pBot - Remote Code Execution,php/remote/20168.pl
+PCPIN Chat 5.0.4 - 'login/language' Remote Code Execution,php/webapps/1697.php
+PDW File Browser 1.3 - Remote Code Execution,php/webapps/48987.txt
+PEAR XML_RPC < 1.3.0 - Remote Code Execution,php/webapps/43828.txt
+Pegasus CMS 1.0 - 'extra_fields.php' Plugin Remote Code Execution,php/webapps/46542.py
+PEHEPE Membership Management System 3.0 - Remote PHP Script Code Injection,php/webapps/27339.txt
+Perch v3.2 - Remote Code Execution (RCE),php/webapps/51620.txt
+Pet Shop Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50353.php
+Petrol Pump Management Software v1.0 - Remote Code Execution (RCE),php/webapps/51943.txt
+Petrol Pump Management Software v1.0 - Remote Code Execution via File Upload,php/remote/51839.txt
+pfBlockerNG 2.1.4_26 - Remote Code Execution (RCE),php/webapps/51032.py
+Pfsense 2.3.4 / 2.4.4-p3 - Remote Code Injection,php/webapps/47413.py
+Pheap 2.0 - Authentication Bypass / Remote Code Execution,php/webapps/4006.php
+pHNews alpha 1 - 'templates_dir' Remote Code Execution,php/webapps/2298.php
+Phoenix Exploit Kit - Remote Code Execution,php/webapps/40047.txt
+Phoenix Exploit Kit - Remote Code Execution (Metasploit),php/remote/40294.rb
+Phoenix Exploit Kit - Remote Code Execution (Metasploit),php/remote/40294.rb
+PhotoShow 3.0 - Remote Code Execution,php/webapps/51236.py
+PHP 4.x/5.x - 'Html_Entity_Decode()' Information Disclosure,php/remote/27508.txt
+PHP 5.2.6 - 'create_function()' Code Injection (1),php/remote/32416.php
+PHP 5.2.6 - 'create_function()' Code Injection (2),php/remote/32417.php
+PHP 5.3.2 - 'xml_utf8_decode()' UTF-8 Input Validation,php/remote/34950.php
+PHP 8.1.0-dev - 'User-Agentt' Remote Code Execution,php/webapps/49933.py
+PHP Blue Dragon CMS 3.0.0 - Remote Code Execution,php/webapps/4277.php
+PHP Easy Downloader 1.5 - 'save.php' Remote Code Execution,php/webapps/2812.pl
+PHP iCalendar 2.21 - 'cookie' Remote Code Execution,php/webapps/1585.php
+PHP iCalendar 2.21 - 'publish.ical.php' Remote Code Execution,php/webapps/1586.php
+PHP imap_open - Remote Code Execution (Metasploit),linux/remote/45914.rb
+PHP imap_open - Remote Code Execution (Metasploit),linux/remote/45914.rb
+PHP IRC Bot pbot - 'eval()' Remote Code Execution (Metasploit),php/remote/20354.rb
+PHP iReport 1.0 - Remote Html Code Injection,php/webapps/18402.pl
+PHP Net Tools 2.7.1 - Remote Code Execution,php/webapps/1695.pl
+PHP Point Of Sale - 'ofc_upload_image.php' Remote Code Execution,php/remote/38809.php
+PHP Proxima 6 - completepack Remote Code Execution,php/webapps/2299.php
+PHP recommend 1.3 - Authentication Bypass / Remote File Inclusion / Code Injection,php/webapps/8658.txt
+PHP Unit 4.8.28 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50702.py
+PHP Utility Belt - Remote Code Execution,php/webapps/38901.txt
+PHP Utility Belt - Remote Code Execution (Metasploit),php/remote/39554.rb
+PHP-Barcode 0.3pl1 - Remote Code Execution,php/webapps/17573.txt
+PHP-Charts 1.0 - 'index.php?type' Remote Code Execution,php/webapps/26453.py
+PHP-Charts 1.0 - PHP Code Execution (Metasploit),php/remote/24273.rb
+PHP-FPM + Nginx - Remote Code Execution,php/webapps/47553.md
+PHP-FPM - Underflow Remote Code Execution (Metasploit),php/remote/48182.rb
+PHP-Fusion 9.03.00 - 'Edit Profile' Remote Code Execution (Metasploit),php/remote/46839.rb
+PHP-Fusion 9.03.50 - 'panels.php' Remote Code Execution,php/webapps/48278.txt
+PHP-Nuke 7.0/8.1/8.1.35 - Wormable Remote Code Execution,php/webapps/12510.php
+PHP-Nuke Platinium 7.6.b.5 - Remote Code Execution,php/webapps/5986.php
+PHP-Post 1.01 - 'template' Remote Code Execution,php/webapps/2593.php
+PHP-Update 2.7 - '/admin/uploads.php' Remote Code Execution,php/webapps/3020.pl
+PHP121 Instant Messenger 1.4 - Remote Code Execution,php/webapps/1666.php
+phpBB 1.0.0/2.0.10 - 'admin_cash.php' Remote Code Execution,php/webapps/676.c
+phpBB 2.0.15 - 'highlight' PHP Remote Code Execution,php/webapps/1076.py
+phpBB 2.0.15 - PHP Remote Code Execution (Metasploit),php/webapps/1113.pm
+phpBB 2.0.19 - 'user_sig_bbcode_uid' Remote Code Execution,php/webapps/1661.pl
+phpBB 3.2.3 - Remote Code Execution,php/webapps/46512.js
+phpBB Amazonia Mod - 'zufallscodepart.php' Remote File Inclusion,php/webapps/2544.pl
+phpBB XS 0.58 - 'functions.php' Remote File Inclusion,php/webapps/2349.txt
+PhpBlock a8.4 - 'PATH_TO_CODE' Remote File Inclusion,php/webapps/5348.txt
+phpBP RC3 (2.204) - SQL Injection / Remote Code Execution,php/webapps/3153.php
+PHPCodeCabinet 0.5 - 'Core.php' Remote File Inclusion,php/webapps/2139.txt
+phpCodeGenie 3.0.2 - 'BEAUT_PATH' Remote File Inclusion,php/webapps/2212.txt
+phpCOIN 1.2.2 - 'phpcoinsessid' SQL Injection / Remote Code Execution,php/webapps/1370.php
+PhpCommander 3.0 - 'upload' Remote Code Execution,php/webapps/2310.php
+phpFileManager 0.9.8 - Remote Code Execution (Metasploit),php/remote/38900.rb
+PHPFusion 9.03.50 - Remote Code Execution,php/webapps/49911.py
+PHPGedView 3.3.7 - Remote Code Execution,php/webapps/1379.php
+phpGroupWare 0.9.16.010 - 'GLOBALS[]' Remote Code Execution,php/webapps/2270.php
+phpIPAM 1.4.5 - Remote Code Execution (RCE) (Authenticated),php/webapps/50963.py
+PHPizabi 0.848b C1 HFP1 - Remote Code Execution,php/webapps/6085.pl
+PHPizabi 0.848b C1 HFP1-3 - Remote Command Execution,php/webapps/8268.php
+PHPKB Multi-Language 9 - 'image-upload.php' Authenticated Remote Code Execution,php/webapps/48221.py
+PHPKB Multi-Language 9 - Authenticated Remote Code Execution,php/webapps/48219.py
+phpKF CMS 3.00 Beta y6 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50610.py
+phpLDAPadmin 1.2.1.1 - Remote PHP Code Injection (1),php/webapps/18021.php
+phpLDAPadmin 1.2.1.1 - Remote PHP Code Injection (Metasploit) (2),php/webapps/18031.rb
+phpList 2.10.2 - 'GLOBALS[]' Remote Code Execution,php/webapps/1659.php
+phpList 2.10.x - Remote Code Execution / Local File Inclusion,php/webapps/7897.php
+phpListPro 2.0.1 - 'Language' Remote Code Execution,php/webapps/1805.pl
+PHPLiteAdmin 1.9.3 - Remote PHP Code Injection,php/webapps/24044.txt
+PHPMailer < 5.2.18 - Remote Code Execution,php/webapps/40968.sh
+PHPMailer < 5.2.18 - Remote Code Execution,php/webapps/40970.php
+PHPMailer < 5.2.18 - Remote Code Execution,php/webapps/40974.py
+PHPMailer < 5.2.20 - Remote Code Execution,php/webapps/40969.py
+PHPMailer < 5.2.20 / SwiftMailer < 5.4.5-DEV / Zend Framework / zend-mail < 2.4.11 - 'AIO' 'PwnScriptum' Remote Code Execution,php/webapps/40986.py
+PHPMailer < 5.2.20 with Exim MTA - Remote Code Execution,php/webapps/42221.py
+PHPMoAdmin - Unauthorized Remote Code Execution,php/webapps/36251.txt
+phpMyAdmin - 'pmaPWN!' Code Injection / Remote Code Execution,php/webapps/8992.php
+phpMyAdmin - 'preg_replace' (Authenticated) Remote Code Execution (Metasploit),php/remote/25136.rb
+phpMyAdmin - (Authenticated) Remote Code Execution (Metasploit),php/remote/45020.rb
+phpMyAdmin - (Authenticated) Remote Code Execution (Metasploit),php/remote/45020.rb
+phpMyAdmin 2.5.7 - Remote code Injection,php/webapps/309.c
+phpMyAdmin 3.x - Swekey Remote Code Injection,php/webapps/17514.php
+phpMyAdmin 4.6.2 - (Authenticated) Remote Code Execution,php/webapps/40185.py
+phpMyAdmin 4.8.1 - Remote Code Execution (RCE),php/webapps/50457.py
+phpMyAdmin3 (pma3) - Remote Code Execution,php/webapps/17510.py
+phpMyChat 0.14.5 - SYS enter Remote Code Execution,php/webapps/1646.php
+phpMyChat 0.15.0dev - SYS enter Remote Code Execution,php/webapps/1647.php
+PHPMyFAQ 2.7.0 - 'ajax_create_folder.php' Remote Code Execution,php/webapps/18084.php
+PHPPowerCards 2.10 - 'txt.inc.php' Remote Code Execution,php/webapps/2590.txt
+phpRPC < 0.7 - Remote Code Execution,php/webapps/43836.txt
+phpRPC Library 0.7 - XML Data Decoding Remote Code Execution (1),php/webapps/1542.pl
+phpRPC Library 0.7 - XML Data Decoding Remote Code Execution (2),php/webapps/1546.pl
+phpScheduleIt 1.2.10 - 'reserve.php' Remote Code Execution,php/webapps/6646.php
+PHPSlash 0.8.1.1 - Remote Code Execution,php/webapps/7948.php
+phpStats 0.1.9 - 'PHP-Stats-options.php' Remote Code Execution,php/webapps/29751.php
+PHPStudy - Backdoor Remote Code execution (Metasploit),php/remote/48192.rb
+PhpTax - 'pfilez' Execution Remote Code Injection (Metasploit),php/webapps/21833.rb
+PhpTax 0.8 - File Manipulation 'newvalue' / Remote Code Execution,php/webapps/25849.txt
+phptax 0.8 - Remote Code Execution,php/webapps/21665.txt
+PHPXMLRPC < 1.1 - Remote Code Execution,php/webapps/43829.txt
+PhreeBooks 5.2.3 ERP - Remote Code Execution (2),php/webapps/49524.py
+Pimcore < 5.71 - Unserialize Remote Code Execution (Metasploit),php/remote/46783.rb
+Pimcore < 5.71 - Unserialize Remote Code Execution (Metasploit),php/remote/46783.rb
+Pinger 1.0 - Remote Code Execution,php/webapps/48323.txt
+Pisay Online E-Learning System 1.0 - Remote Code Execution,php/webapps/48439.txt
+Pivot 1.30 RC2 - Privilege Escalation / Remote Code Execution,php/webapps/1991.php
+Piwik Open Flash Chart - Remote Code Execution,php/webapps/10532.txt
+PixelStor 5000 K:4.0.1580-20150629 - Remote Code Execution,php/webapps/47899.py
+PlaySMS - 'import.php' (Authenticated) CSV File Upload Code Execution (Metasploit),php/remote/44598.rb
+PlaySMS - index.php Unauthenticated Template Injection Code Execution (Metasploit),php/remote/48335.rb
+PlaySMS 1.4 - '/sendfromfile.php' Remote Code Execution / Unrestricted File Upload,php/webapps/42003.txt
+PlaySMS 1.4 - 'import.php' Remote Code Execution,php/webapps/42044.txt
+PlaySMS 1.4 - 'sendfromfile.php?Filename' (Authenticated) 'Code Execution (Metasploit),php/remote/44599.rb
+PlaySMS 1.4 - Remote Code Execution,php/webapps/42038.txt
+PlaySMS 1.4.3 - Template Injection / Remote Code Execution,php/webapps/48199.txt
+Pligg CMS 9.9.0 - Remote Code Execution,php/webapps/6172.pl
+Pluck CMS 4.7.13 - File Upload Remote Code Execution (Authenticated),php/webapps/49909.py
+Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated),php/webapps/50826.py
+Pluck v4.7.18 - Remote Code Execution (RCE),php/webapps/51592.py
+Pluxml 0.3.1 - Remote Code Execution,php/webapps/4096.php
+PmWiki 2.2.34 - 'pagelist' Remote PHP Code Injection (1),php/webapps/18149.php
+PmWiki 2.2.34 - 'pagelist' Remote PHP Code Injection (2) (Metasploit),php/webapps/18243.rb
+PNPHPBB2 < 1.2g - 'phpbb_root_path' Remote File Inclusion,php/webapps/2390.txt
+Podcast Generator 1.1 - Remote Code Execution,php/webapps/8324.php
+POS Codekop v2.0 - Authenticated Remote Code Execution (RCE),php/webapps/51551.txt
+Posnic Stock Management System - SQL Injection,php/remote/44228.php
+PostNuke 0.763 - 'PNSV lang' Remote Code Execution,php/webapps/2707.php
+PostNuke PostWrap Module - Remote File Inclusion / Code Execution,php/webapps/800.txt
+PrestaShop 1.6.x/1.7.x - Remote Code Execution,php/webapps/45964.php
+ProcessMaker Open Source - (Authenticated) PHP Code Execution (Metasploit),php/remote/29325.rb
+Profiling System for Human Resource Management 1.0 - Remote Code Execution (Unauthenticated),php/webapps/49672.py
+ProfitCode Shopping Cart - Multiple Local/Remote File Inclusion Vulnerabilities,php/webapps/11075.txt
+projectSend r1605 - Remote Code Exectution RCE,php/webapps/51238.txt
+ProjeQtOr Project Management 9.1.4 - Remote Code Execution,php/webapps/49919.txt
+ProjeQtOr Project Management System 10.3.2 - Remote Code Execution (RCE),php/webapps/51387.txt
+ProjeQtOr Project Management Tool 7.2.5 - Remote Code Execution,php/webapps/45680.txt
+PTC Site's - Remote Code Execution / Cross-Site Scripting,php/webapps/12808.txt
+PunBB 1.2.14 - Remote Code Execution,php/webapps/3710.php
+qdPM 9.1 - Remote Code Execution,php/webapps/47954.py
+qdPM 9.1 - Remote Code Execution (Authenticated),php/webapps/50175.py
+qdPM 9.1 - Remote Code Execution (RCE) (Authenticated) (v2),php/webapps/50944.py
+QNX Neutrino 0.8.4 Atomic Edition - Remote Code Execution,php/webapps/6018.pl
+Quick.Cart 2.2 - Local/Remote File Inclusion / Remote Code Execution,php/webapps/4025.php
+Quick.CMS 6.7 - Remote Code Execution (Authenticated),php/webapps/49494.py
+QuickBox Pro 2.1.8 - Authenticated Remote Code Execution,php/webapps/48536.py
+Quicksilver Forums 1.4.2 (Windows) - Remote Code Execution,php/webapps/7217.pl
+Ra1NX PHP Bot - pubcall Authentication Bypass Remote Code Execution (Metasploit),php/webapps/24883.rb
+RaidenHTTPD 1.1.49 - 'SoftParserFileXml' Remote Code Execution,windows/remote/2328.php
+Randshop 0.9.3/1.2 - 'index.php' Remote File Inclusion,php/webapps/28162.txt
+RaspAP 2.6.6 - Remote Code Execution (RCE) (Authenticated),php/webapps/50224.py
+rConfig 3.9.2 - Remote Code Execution,php/webapps/47555.py
+rConfig 3.9.3 - Authenticated Remote Code Execution,php/webapps/47982.py
+rConfig 3.9.4 - 'searchField' Unauthenticated Root Remote Code Execution,php/webapps/48261.py
+rConfig 3.9.5 - Remote Code Execution (Unauthenticated),php/webapps/48878.py
+rConfig 3.9.6 - Arbitrary File Upload to Remote Code Execution (Authenticated) (1),php/webapps/49665.txt
+rConfig 3.93 - 'ajaxAddTemplate.php' Authenticated Remote Code Execution,php/webapps/48207.py
+Real Estate Management System v1.0 - Remote Code Execution via File Upload,php/remote/51840.txt
+ReloadCMS 1.2.5 - Cross-Site Scripting / Remote Code Execution,php/webapps/1631.php
+Responsive FileManager 9.9.5 - Remote Code Execution (RCE),php/webapps/51251.py
+Responsive Tourism Website 3.1 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50049.py
+Restaurant Management System 1.0 - Remote Code Execution,php/webapps/47520.py
+Revenue Collection System v1.0 - Remote Code Execution (RCE),php/webapps/51133.py
+Revive Adserver 4.2 - Remote Code Execution,php/webapps/47739.php
+RiteCMS 2.2.1 - Authenticated Remote Code Execution,php/webapps/48636.txt
+RiteCMS 2.2.1 - Remote Code Execution (Authenticated),php/webapps/48915.py
+RiteCMS 3.1.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50616.txt
+RoSPORA 1.5.0 - Remote PHP Code Injection,php/webapps/15343.php
+Roundcube 1.2.2 - Remote Code Execution,php/webapps/40892.txt
+Roundcube Webmail 0.2b - Remote Code Execution,php/webapps/7553.sh
+Rukovoditel 2.7.1 - Remote Code Execution (2) (Authenticated),php/webapps/48784.py
+Rukovoditel 3.3.1 - Remote Code Execution (RCE),php/webapps/51322.txt
+Rukovoditel Project Management CRM 2.3.1 - Remote Code Execution (Metasploit),php/webapps/46011.rb
+SAPID CMF Build 87 - 'last_module' Remote Code Execution,php/webapps/5097.txt
+SAPID CMS 1.2.3_rc3 - 'rootpath' Remote Code Execution,php/webapps/2161.pl
+sar2html 3.2.1 - 'plot' Remote Code Execution,php/webapps/49344.py
+SCart 2.0 - 'page' Remote Code Execution,php/webapps/1876.pl
+Schneider Electric U.Motion Builder 1.3.4 - 'track_import_export.php object_id' Unauthenticated Command Injection,php/webapps/46846.txt
+School ERP Pro 1.0 - Remote Code Execution,php/webapps/48392.txt
+School Log Management System 1.0 - 'username' SQL Injection / Remote Code Execution,php/webapps/48988.py
+Schoolhos CMS 2.29 - Remote Code Execution / SQL Injection,php/webapps/40753.php
+Sciurus Hosting Panel - Remote Code Injection,php/webapps/4635.php
+Scribe 0.2 - PHP Remote Code Execution,php/webapps/4596.txt
+Scriptcase 9.7 - Remote Code Execution (RCE),php/webapps/50872.txt
+Seat Reservation System 1.0 - Remote Code Execution (Unauthenticated),php/webapps/48887.py
+Sendcard 3.4.1 - Local File Inclusion / Remote Code Execution,php/webapps/4029.php
+Sentrifugo 3.2 - 'assets' Remote Code Execution (Authenticated),php/webapps/48997.py
+Sentrifugo Version 3.2 - 'announcements' Remote Code Execution (Authenticated),php/webapps/48998.py
+SEO Panel 4.6.0 - Remote Code Execution (1),php/webapps/48862.py
+SEO Panel 4.6.0 - Remote Code Execution (2),php/webapps/49525.py
+SePortal 2.5 - SQL Injection / Remote Code Execution (Metasploit),php/remote/32621.rb
+Serendipity 2.4.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/51372.txt
+Shopware - createInstanceFromNamedArguments PHP Object Instantiation Remote Code Execution (Metasploit),php/remote/46915.rb
+ShoreTel / Mitel Connect ONSITE 19.49.5200.0 - Remote Code Execution,php/webapps/46174.txt
+ShoutLIVE 1.1.0 - 'savesettings.php' Remote Code Execution,php/webapps/1590.pl
+ShoutPro 1.5.2 - 'shout.php' Remote Code Injection,php/webapps/3758.php
+SilverNews 2.04 - Authentication Bypass / Local File Inclusion / Remote Code Execution,php/webapps/8004.txt
+Simple Chatbot Application 1.0 - Remote Code Execution (RCE),php/webapps/50672.txt
+Simple Client Management System 1.0 - Remote Code Execution (RCE),php/webapps/50094.py
+Simple College Website 1.0 - 'username' SQL Injection / Remote Code Execution,php/webapps/48977.py
+Simple Image Gallery 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50214.py
+Simple Water Refilling Station Management System 1.0 - Remote Code Execution (RCE) through File Upload,php/webapps/50205.py
+SimpleMachinesForum v2.1.1 - Authenticated Remote Code Execution,php/webapps/51057.txt
+SineCMS 2.3.5 - Local File Inclusion / Remote Code Execution,php/webapps/4854.txt
+SitemagicCMS 4.4.3 - Remote Code Execution (RCE),php/webapps/51464.txt
+SkaDate Lite 2.0 - Remote Code Execution,php/webapps/34205.py
+Small-Cms - 'hostname' Remote PHP Code Injection,php/webapps/37328.php
+Smart Publisher 1.0.1 - 'filedata' Remote Code Execution,php/webapps/5003.txt
+Softek Barcode Reader Toolkit ActiveX 7.1.4.14 - 'SoftekATL.dll' Remote Buffer Overflow,windows/remote/15071.txt
+Sophos Web Appliance 4.2.1.3 - Remote Code Execution,php/webapps/40725.txt
+SpamTitan 7.07 - Unauthenticated Remote Code Execution,php/webapps/48856.py
+Sphider Script - Remote Code Execution,php/webapps/13745.txt
+SPIP v4.2.0 - Remote Code Execution (Unauthenticated),php/webapps/51536.py
+SQL Buddy 1.3.3 - Remote Code Execution,php/webapps/35428.txt
+SQLiteManager 1.2.4 - Remote PHP Code Injection,multiple/webapps/24320.py
+Squid Analysis Report Generator 2.3.10 - Remote Code Execution,php/webapps/42993.txt
+Storage Unit Rental Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50348.py
+Strawberry 1.1.1 - 'html.php' Remote Code Execution,php/webapps/30992.txt
+Student Attendance Management System 1.0 - 'username' SQL Injection / Remote Code Execution,php/webapps/48989.py
+Student Enrollment 1.0 - Unauthenticated Remote Code Execution,php/webapps/48608.py
+STUNSHELL (Web Shell) - PHP Remote Code Execution (Metasploit),php/remote/24902.rb
+STUNSHELL (Web Shell) - PHP Remote Code Execution (Metasploit),php/remote/24902.rb
+STUNSHELL (Web Shell) - Remote Code Execution (Metasploit),php/remote/24903.rb
+STUNSHELL (Web Shell) - Remote Code Execution (Metasploit),php/remote/24903.rb
+SugarCRM 12.2.0 - Remote Code Execution (RCE),php/webapps/51187.py
+SugarCRM 5.2.0e - Remote Code Execution,php/webapps/8949.txt
+SugarSuite Open Source 4.0beta - Remote Code Execution (1),php/webapps/1359.php
+SugarSuite Open Source 4.0beta - Remote Code Execution (2),php/webapps/1364.c
+SuiteCRM 7.11.15 - 'last_name' Remote Code Execution (Authenticated),php/webapps/49001.py
+SuiteCRM 7.11.18 - Remote Code Execution (RCE) (Authenticated) (Metasploit),php/webapps/50531.rb
+Support Incident Tracker 3.65 - 'translate.php' Remote Code Execution,php/webapps/18132.php
+SwiftMailer < 5.4.5-DEV - Remote Code Execution,php/webapps/40972.php
+Symantec Web Gateway 5.0.3.18 - 'pbcontrol.php' Root Remote Code Execution,linux/remote/20088.py
+Symphony 1.7.01 (non-patched) - Remote Code Execution,php/webapps/6177.php
+Synology Photo Station 6.7.3-3432 / 6.3-2967 - Remote Code Execution,hardware/webapps/42434.py
+Synology Photostation 6.7.2-3429 - Remote Code Execution (Metasploit),php/webapps/43474.rb
+Tagger Luxury Edition - 'BBCodeFile' Remote File Inclusion,php/webapps/2157.txt
+Tailor Management System 1.0 - Unrestricted File Upload to Remote Code Execution,php/webapps/49136.txt
+Task Management System 1.0 - Unrestricted File Upload to Remote Code Execution,php/webapps/49223.txt
+TeamCity Agent XML-RPC 10.0 - Remote Code Execution,php/webapps/48201.py
+tenrok 1.1.0 - File Disclosure / Remote Code Execution,php/webapps/9367.txt
+TerraMaster F2-420 NAS TOS 3.0.30 - Root Remote Code Execution,php/webapps/42093.py
+Terramaster TOS 4.2.15 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50635.py
+TestLink Open Source Test Management < 1.9.16 - Remote Code Execution,php/remote/44226.txt
+Textpattern 4.8.3 - Remote code execution (Authenticated) (2),php/webapps/49620.py
+Textpattern 4.8.8 - Remote Code Execution (RCE) (Authenticated),php/webapps/51176.txt
+TextPattern CMS 4.8.3 - Remote Code Execution (Authenticated),php/webapps/48943.py
+The Uploader 2.0.4 (English/Italian) - Arbitrary File Upload / Remote Code Execution (Metasploit),php/webapps/18518.rb
+The World Browser 3.0 Final - Remote Code Execution,windows/remote/38512.php
+ThinkPHP 5.0.23/5.1.31 - Remote Code Execution,php/webapps/45978.txt
+thrsrossi Millhouse-Project 1.414 - Remote Code Execution,php/webapps/51450.php
+Tiki Wiki CMS Calendar 6.15/9.11 LTS/12.5 LTS/14.2 - Remote Code Execution,php/webapps/39965.txt
+Tiki Wiki CMS Groupware 8.2 - 'snarf_ajax.php' Remote PHP Code Injection,php/webapps/18265.txt
+TikiWiki Project 1.8 - Add Site Multiple Options Remote Code Injections,php/webapps/23951.txt
+TikiWiki Project 1.8 - User Profile Multiple Option Remote Code Injections,php/webapps/23950.txt
+TikiWiki tiki-graph_formula - PHP Remote Code Execution (Metasploit),php/webapps/16911.rb
+Tiny File Manager 2.4.6 - Remote Code Execution (RCE),php/webapps/50828.sh
+Tiny Tiny RSS - Remote Code Execution,php/webapps/49606.py
+TinyPHP Forum 3.6 - 'profile.php' Remote Code Execution,php/webapps/1857.pl
+TinyWebGallery 1.7.6 - Local File Inclusion / Remote Code Execution,php/webapps/8649.php
+TinyWebGallery v2.5 - Remote Code Execution (RCE),php/webapps/51443.txt
+Total CMS 1.7.4 - Remote Code Execution (RCE),php/webapps/51500.txt
+Tourism Website Blog - Remote Code Execution / SQL Injection,php/webapps/45962.txt
+ToyLog 0.1 - SQL Injection / Remote Code Execution,php/webapps/9109.txt
+TP-Link NC200/NC220 Cloud Camera 300Mbps Wi-Fi - Hard-Coded Credentials,hardware/remote/38186.txt
+Traffic Offense Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50244.py
+Traq 2.3 - Authentication Bypass / Remote Code Execution,php/webapps/18213.php
+Traq 2.3 - Authentication Bypass / Remote Code Execution (Metasploit),php/webapps/18239.rb
+Trend Micro Control Manager - ImportFile Directory Traversal Remote Code Execution (Metasploit),php/remote/42692.rb
+Trend Micro InterScan Messaging Security (Virtual Appliance) - 'Proxy.php' Remote Code Execution (Metasploit),php/webapps/42972.rb
+Trend Micro OfficeScan 11.0/XG (12.0) - Remote Code Execution (Metasploit),php/webapps/42971.rb
+Trixbox 2.8.0.4 - 'lang' Remote Code Execution (Unauthenticated),php/webapps/49913.py
+Tucows Client Code Suite (CSS) 1.2.1015 - Remote File Inclusion,php/webapps/2896.py
+Tuleap - PHP Unserialize Code Execution (Metasploit),php/remote/35545.rb
+TWiki 4.0.4 - Configure Script Remote Code Execution (Metasploit),php/webapps/2110.pm
+TWiki Debugenableplugins - Remote Code Execution (Metasploit),php/remote/36438.rb
+txtForum 1.0.3/1.0.4 - Remote PHP Script Code Injection,php/webapps/27408.txt
+Typo3 4.5 < 4.7 - Remote Code Execution / Local File Inclusion / Remote File Inclusion,php/webapps/18308.txt
+TYPO3 Extension ke DomPDF - Remote Code Execution,php/webapps/35443.txt
+Ulicms-2023.1 sniffing-vicuna - Remote Code Execution (RCE),php/webapps/51434.txt
+UltimatePOS 2.5 - Remote Code Execution,php/webapps/45253.txt
+Unraid 6.8.0 - Auth Bypass PHP Code Execution (Metasploit),linux/remote/48353.rb
+Useresponse 1.0.2 - Privilege Escalation / Remote Code Execution,php/webapps/19174.py
+Uvdesk v1.1.3 - File Upload Remote Code Execution (RCE) (Authenticated),php/webapps/51639.py
+V-Webmail 1.6.4 - '/includes/pear/Mail/mimeDecode.php?CONFIG[pear_dir]' Remote File Inclusion,php/webapps/32028.txt
+VA MAX 8.3.4 - (Authenticated) Remote Code Execution,php/webapps/46348.py
+Vanilla Forums < 2.3 - Remote Code Execution,php/remote/41996.sh
+vbPortal 3.0.2 < 3.6.0 b1 - 'cookie' Remote Code Execution,php/webapps/2087.php
+vBSEO 3.6.0 - 'proc_deutf()' Remote PHP Code Injection (Metasploit),php/webapps/18424.rb
+vBulletin 5.0 < 5.5.4 - 'updateAvatar' Authenticated Remote Code Execution,php/webapps/47475.php
+vBulletin 5.0 < 5.5.4 - 'widget_php ' Unauthenticated Remote Code Execution,php/webapps/47447.py
+vBulletin 5.1.x - Remote Code Execution,php/webapps/38629.txt
+vBulletin 5.6.2 - 'widget_tabbedContainer_tab_panel' Remote Code Execution,php/webapps/48743.txt
+vBulletin 5.x - 'routestring' Remote Code Execution,multiple/webapps/43361.md
+vBulletin 5.x - Remote Code Execution,php/webapps/38790.pl
+vBulletin < 4.2.2 - Memcache Remote Code Execution,php/webapps/37815.txt
+vBulletin vBSEO 4.x - 'visitormessage.php' Remote Code Injection,php/webapps/36232.txt
+Vehicle Service Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50364.py
+Verot 2.0.3 - Remote Code Execution,php/webapps/47749.php
+VHCS 2.4.7.1 - 'vhcs2_daemon' Remote Code Execution,linux/remote/5224.php
+Vote-Pro 4.0 - 'poll_frame.php?poll_id' Remote Code Execution,php/webapps/3180.pl
+Voting System 1.0 - File Upload RCE (Authenticated Remote Code Execution),php/webapps/49445.py
+Voting System 1.0 - Remote Code Execution (Unauthenticated),php/webapps/49846.txt
+vTiger CRM 5.0.4 - Remote Code Execution / Cross-Site Request Forgery / Local File Inclusion / Cross-Site Scripting,php/webapps/9450.txt
+vTiger CRM 5.3.0 5.4.0 - (Authenticated) Remote Code Execution (Metasploit),php/remote/29319.rb
+vTiger CRM 6.3.0 - (Authenticated) Remote Code Execution,php/webapps/38345.txt
+Vtiger CRM 7.1.0 - Remote Code Execution,php/webapps/46065.py
+w-Agora 4.2.0 - 'quicklist.php' Remote Code Execution,php/webapps/1250.php
+w-CMS 2.0.1 - Remote Code Execution,php/webapps/27603.txt
+WBCE CMS 1.5.2 - Remote Code Execution (RCE) (Authenticated),php/webapps/50707.py
+WebAlbum 2.02pl - COOKIE[skin2] Remote Code Execution,php/webapps/1608.php
+webcaf 1.4 - Local File Inclusion / Remote Code Execution,php/webapps/7388.txt
+WebCalendar 1.2.4 - Remote Code Execution,php/webapps/18775.php
+Webedition CMS v2.9.8.8 - Remote Code Execution (RCE),php/webapps/51661.txt
+WebHMI 4.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50589.py
+WebHMI 4.1.1 - Remote Code Execution (RCE) (Authenticated),php/webapps/50784.py
+WeBid - 'converter.php' Remote PHP Code Injection (Metasploit),php/webapps/18934.rb
+WeBid 1.0.2 - 'converter.php' Remote Code Execution,php/webapps/17487.php
+WEBIGniter v28.7.23 File Upload - Remote Code Execution,php/webapps/51736.txt
+WebPortal CMS 0.7.4 - 'code' Remote Code Execution,php/webapps/6544.txt
+Website Baker 2.6.0 - Authentication Bypass / Remote Code Execution,php/webapps/1363.php
+WebsiteBaker 2.12.2 - Remote Code Execution,php/webapps/48838.py
+WebsiteBaker 2.13.0 - Remote Code Execution (RCE) (Authenticated),php/webapps/50310.py
+webSPELL 4.01.02 - PHP Remote Code Execution,php/webapps/3402.php
+Websvn 2.6.0 - Remote Code Execution (Unauthenticated),php/webapps/50042.py
+WebText 0.4.5.2 - Remote Code Execution,php/webapps/3036.php
+WebUI 1.5b6 - Remote Code Execution,php/webapps/36821.txt
+Webutler v3.2 - Remote Code Execution (RCE),php/webapps/51660.txt
+Western Digital Arkeia < 10.0.10 - Remote Code Execution (Metasploit),php/remote/28407.rb
+Wolf CMS 0.8.3.1 - Remote Code Execution (RCE),php/webapps/51421.txt
+WonderCMS 3.1.3 - Authenticated Remote Code Execution,php/webapps/49155.py
+WonderCMS 3.1.3 - Authenticated SSRF to Remote Remote Code Execution,php/webapps/49154.py
+WooCommerce CSV-Importer-Plugin 3.3.6 - Remote Code Execution,php/webapps/44433.txt
+WooCommerce v7.1.0 - Remote Code Execution(RCE),php/webapps/51156.txt
+WordPress 5.0.0 - Image Remote Code Execution,php/webapps/49512.py
+Wordpress Augmented-Reality - Remote Code Execution Unauthenticated,php/webapps/51788.py
+WordPress Core 1.5.1.3 - Remote Code Execution,php/webapps/1142.php
+WordPress Core 1.5.1.3 - Remote Code Execution (Metasploit),php/webapps/1145.pm
+WordPress Core 5.0 - Remote Code Execution,php/webapps/46511.js
+Wordpress Plugin Backup Guard 1.5.8 - Remote Code Execution (Authenticated),php/webapps/50093.py
+WordPress Plugin BackWPup - Remote Code Execution / Local Code Execution,php/webapps/17056.txt
+Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE),php/webapps/51826.py
+Wordpress Plugin Catch Themes Demo Import 1.6.1 - Remote Code Execution (RCE) (Authenticated),php/webapps/50580.py
+WordPress Plugin Cforms 14.7 - Remote Code Execution,php/webapps/35879.txt
+WordPress Plugin Database Backup < 5.2 - Remote Code Execution (Metasploit),php/remote/47187.rb
+WordPress Plugin Download Manager 2.7.4 - Remote Code Execution,php/webapps/35533.py
+WordPress Plugin Drag and Drop File Upload Contact Form 1.3.3.2 - Remote Code Execution,php/webapps/48520.txt
+WordPress Plugin dzs-zoomsounds 6.60 - Remote Code Execution (RCE) (Unauthenticated),php/webapps/50753.py
+WordPress Plugin Elementor 3.6.2 - Remote Code Execution (RCE) (Authenticated),php/webapps/50882.py
+WordPress Plugin Google Drive 2.2 - Remote Code Execution,php/webapps/44435.txt
+Wordpress Plugin ImageMagick-Engine 1.7.4 - Remote Code Execution (RCE) (Authenticated),php/webapps/51025.txt
+WordPress Plugin Insert or Embed Articulate Content into WordPress - Remote Code Execution,php/webapps/46981.txt
+WordPress Plugin Job Script by Scubez - Remote Code Execution,php/webapps/39848.py
+WordPress Plugin MailChimp Subscribe Forms 1.1 - Remote Code Execution,php/webapps/37111.txt
+WordPress Plugin Marketplace 2.4.0 - Remote Code Execution (Add Admin),php/webapps/36490.py
+WordPress Plugin MiwoFTP 1.0.5 - Cross-Site Request Forgery / Arbitrary File Creation / Remote Code Execution,php/webapps/36763.txt
+Wordpress Plugin Modern Events Calendar 5.16.2 - Remote Code Execution (Authenticated),php/webapps/50082.py
+WordPress Plugin PHP Speedy 0.5.2 - 'admin_container.php' Remote Code Execution,php/webapps/16273.php
+WordPress Plugin Plainview Activity Monitor 20161228 - Remote Code Execution (RCE) (Authenticated) (2),php/webapps/50110.py
+WordPress Plugin Polls 1.2.4 - SQL Injection (PoC),php/remote/44229.txt
+WordPress Plugin Popular Posts 5.3.2 - Remote Code Execution (RCE) (Authenticated),php/webapps/50129.py
+WordPress Plugin Simple Download Button ShortCode 1.0 - Remote File Disclosure,php/webapps/19020.txt
+WordPress Plugin Simple Fields 0.2 - 0.3.5 - Local/Remote File Inclusion / Remote Code Execution,php/webapps/44425.txt
+WordPress Plugin Simple File List 4.2.2 - Remote Code Execution,php/webapps/48449.py
+WordPress Plugin Sniplets 1.1.2 - Remote File Inclusion / Cross-Site Scripting / Remote Code Execution,php/webapps/5194.txt
+WordPress Plugin Social Warfare < 3.5.3 - Remote Code Execution,php/webapps/46794.py
+Wordpress Plugin SP Project & Document Manager 4.21 - Remote Code Execution (RCE) (Authenticated),php/webapps/50115.py
+WordPress Plugin TimThumb 1.32 - Remote Code Execution,php/webapps/17602.txt
+WordPress Plugin W3 Total Cache - PHP Code Execution (Metasploit),php/remote/25137.rb
+WordPress Plugin WP Super Cache - PHP Remote Code Execution,php/webapps/38494.txt
+WordPress Plugin WP Super Cache 1.7.1 - Remote Code Execution (Authenticated),php/webapps/49718.txt
+WordPress Plugin wpDiscuz 7.0.4 - Remote Code Execution (Unauthenticated),php/webapps/49967.py
+Wordpress Plugin XCloner 4.2.12 - Remote Code Execution (Authenticated),php/webapps/50077.py
+WordPress Plugin Zingiri 2.2.3 - 'ajax_save_name.php' Remote Code Execution,php/webapps/18111.php
+Wordpress Seotheme - Remote Code Execution Unauthenticated,php/webapps/51789.py
+WordPress Theme Workreap 2.2.2 - Unauthenticated Upload Leading to Remote Code Execution,php/webapps/51510.py
+WP All Import v3.6.7 - Remote Code Execution (RCE) (Authenticated),php/webapps/51122.py
+WSN Forum 1.3.4 - 'prestart.php' Remote Code Execution,php/webapps/2583.php
+X7 Chat 2.0.5 - 'message.php' PHP Code Execution (Metasploit),php/remote/35183.rb
+XCart 5.2.6 - Code Execution,php/remote/38731.py
+Xerte 3.9 - Remote Code Execution (RCE) (Authenticated),php/webapps/50795.py
+XML-RPC Library 1.3.0 - 'xmlrpc.php' Remote Code Injection,php/webapps/1078.pl
+xml2owl 0.1.1 - 'showcode.php' Remote Command Execution,php/webapps/4800.txt
+XOOPS 2.3.2 - 'mydirname' PHP Remote Code Execution,php/webapps/7705.php
+XRms 1.99.2 - Remote File Inclusion / Cross-Site Scripting / Information Gathering,php/webapps/6131.txt
+YaPiG 0.95b - Remote Code Execution,php/webapps/3834.php
+YouPHPTube 7.4 - Remote Code Execution,php/webapps/47326.txt
+yourplace 1.0.2 - Multiple Vulnerabilities / Remote Code Execution,php/webapps/7545.txt
+YouTube Clone Script - 'spages.php' Remote Code Execution,php/webapps/5490.pl
+Yoxel 1.23beta - 'itpm_estimate.php' Remote Code Execution,php/webapps/6606.txt
+Zabbix 2.2 < 3.0.3 - API JSON-RPC Remote Code Execution,php/webapps/39937.py
+Zabbix 5.0.17 - Remote Code Execution (RCE) (Authenticated),php/webapps/50816.py
+Zen Cart 1.3.8 - Remote Code Execution,php/webapps/9004.php
+Zen Cart 1.5.7b - Remote Code Execution (Authenticated),php/webapps/49608.rb
+Zenario CMS 9.0.54156 - Remote Code Execution (RCE) (Authenticated),php/webapps/50850.py
+Zend Framework / zend-mail < 2.4.11 - Remote Code Execution,php/webapps/40979.php
+ZenPhoto 1.4.1.4 - 'ajax_create_folder.php' Remote Code Execution,php/webapps/18083.php
+Zentao Project Management System 17.0 - Authenticated Remote Code Execution (RCE),php/webapps/51069.txt
+ZeroBoard 4.1 pl7 - 'now_connect()' Remote Code Execution,php/webapps/9590.c
+Zeta Components Mail 1.8.1 - Remote Code Execution,php/webapps/43155.txt
+Zeta Producer Desktop CMS 14.2.0 - Remote Code Execution / Local File Disclosure,php/webapps/45016.txt
+ZKTeco ZKBioSecurity 3.0 - Hard-Coded Credentials SYSTEM Remote Code Execution,jsp/webapps/40324.txt
+zomplog 3.9 - Remote Code Execution (RCE),php/webapps/51624.py
+ZonPHP 2.25 - Remote Code Execution,php/webapps/29091.txt
+Zoom Player 3.30/5/6 - '.ZPL' Error Message Arbitrary Code Execution,multiple/remote/30933.php
+Zpanel - Remote Code Execution (Metasploit),php/remote/38505.rb
+zzzphp CMS 1.6.1 - Remote Code Execution,php/webapps/46454.txt
+Linux/x86 - Remote Port Forwarding (ssh -R 9999:localhost:22 192.168.0.226) Shellcode (87 bytes),linux_x86/23622.c
+OSX/PPC - Remote findsock by recv() Key Shellcode,osx_ppc/43610.c
